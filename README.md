@@ -34,7 +34,7 @@ Under construction...
 **Access the publication:** [Link](https://brasil.mapbiomas.org/en/) 
 
 **Abstract:**
-MapBiomas is a collaborative network formed by NGOs, universities, and technology startups, which reveals the transformations in the Brazilian territory through science, making knowledge about land use accessible to seek conservation and combat changes in climate. It has produced annual land cover and land use mapping and monitors surface water and fire scars monthly with data from 1985. The project also validates and produces reports for each deforestation event detected in Brazil since January 2019 with the product MapBiomas Alert. In Collection 4, I have helped in the development of the Agriculture and Forest Plantation maps from 1985 to 2018.
+MapBiomas is a collaborative network formed by NGOs, universities, and technology startups, which reveals the transformations in the Brazilian territory through science, making knowledge about land use accessible to seek conservation and combat changes in climate. It has produced annual land cover and land use mapping and monitors surface water and fire scars monthly with data from 1985. The project also validates and produces reports for each deforestation event detected in Brazil since January 2019 with the product MapBiomas Alert. In Collection 4, I helped in the development of the Agriculture and Forest Plantation maps from 1985 to 2018.
 
 ### E) SPATIO-TEMPORAL VARIABILITY OF THE WATER-USE EFFICIENCY IN THE CAATINGA OF THE LOWER-MIDDLE SÃO FRANCISCO RIVER BASIN USING MODIS DATA AND THE MODEL METRIC, 2019
 
