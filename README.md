@@ -1,4 +1,4 @@
-**Below are some examples of academic projects and studies in which I have participated.**
+**Below are some examples of projects and academic studies in which I have participated.**
 
 ### A) SEPARABILITY OF SUGARCANE DYNAMIC USING BASIC STATISTICS METRICS FROM SATELLITE TIME-SERIES, 2023
 
