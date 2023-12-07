@@ -17,14 +17,14 @@ sugarcane areas using basic statistics metrics from the OLI/Landsat-8 time-serie
 
 ### B) GEOSPATIAL ANALYSIS OF SOY EXPANSION IN THE CERRADO BIOME: 2000/01 TO 2021/22 - AN UPDATE AND REANALYSIS WITH THE NEW BOUNDARY OF THE BIOME, 2021
 
-**Access the publication:** [Link]([https://brasil.mapbiomas.org/en/](https://agrosatelite.com.br/static/img/cases/pdf/en/relatorio_ccm_exp_us.pdf)) 
+**Access the publication:** [Link](https://agrosatelite.com.br/static/img/cases/pdf/en/relatorio_ccm_exp_us.pdf) 
 
 **Abstract:**
 Under construction...
 
 ### C) GEOSPATIAL ANALYSIS OF SOY EXPANSION IN THE CERRADO BIOME: EXPANSION DYNAMIC | AGRICULTURAL SUITABILITY | EVALUATION SYSTEM FOR FINANCIAL COMPENSATION - 2001 to 2019, 2020
 
-**Access the publication:** [Link]([https://brasil.mapbiomas.org/en/](https://agrosatelite.com.br/static/img/cases/pdf/en/relatorio_ccm_us.pdf)) 
+**Access the publication:** [Link](https://agrosatelite.com.br/static/img/cases/pdf/en/relatorio_ccm_us.pdf) 
 
 **Abstract:**
 Under construction...
