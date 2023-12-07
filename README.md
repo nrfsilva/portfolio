@@ -15,21 +15,35 @@ sugarcane areas using basic statistics metrics from the OLI/Landsat-8 time-serie
 *Result of the classification using the selected model generated from the algorithm Random Forest.*
 </div>
 
-### B) MAPBIOMAS COLLECTION 4, 2019
+### B) GEOSPATIAL ANALYSIS OF SOY EXPANSION IN THE CERRADO BIOME: 2000/01 TO 2021/22 - AN UPDATE AND REANALYSIS WITH THE NEW BOUNDARY OF THE BIOME, 2021
+
+**Access the publication:** [Link]([https://brasil.mapbiomas.org/en/](https://agrosatelite.com.br/static/img/cases/pdf/en/relatorio_ccm_exp_us.pdf)) 
+
+**Abstract:**
+Under construction...
+
+### C) GEOSPATIAL ANALYSIS OF SOY EXPANSION IN THE CERRADO BIOME: EXPANSION DYNAMIC | AGRICULTURAL SUITABILITY | EVALUATION SYSTEM FOR FINANCIAL COMPENSATION - 2001 to 2019, 2020
+
+**Access the publication:** [Link]([https://brasil.mapbiomas.org/en/](https://agrosatelite.com.br/static/img/cases/pdf/en/relatorio_ccm_us.pdf)) 
+
+**Abstract:**
+Under construction...
+
+### D) MAPBIOMAS COLLECTION 4, 2019
 
 **Access the publication:** [Link](https://brasil.mapbiomas.org/en/) 
 
 **Abstract:**
 MapBiomas is a collaborative network formed by NGOs, universities, and technology startups, which reveals the transformations in the Brazilian territory through science, making knowledge about land use accessible to seek conservation and combat changes in climate. It has produced annual land cover and land use mapping and monitors surface water and fire scars monthly with data from 1985. The project also validates and produces reports for each deforestation event detected in Brazil since January 2019 with the product MapBiomas Alert. In Collection 4, I have helped in the development of the Agriculture and Forest Plantation maps from 1985 to 2018.
 
-### C) SPATIO-TEMPORAL VARIABILITY OF THE WATER-USE EFFICIENCY IN THE CAATINGA OF THE LOWER-MIDDLE SÃO FRANCISCO RIVER BASIN USING MODIS DATA AND THE MODEL METRIC, 2019
+### E) SPATIO-TEMPORAL VARIABILITY OF THE WATER-USE EFFICIENCY IN THE CAATINGA OF THE LOWER-MIDDLE SÃO FRANCISCO RIVER BASIN USING MODIS DATA AND THE MODEL METRIC, 2019
 
 **Access the publication:** [Link](http://mtc-m21c.sid.inpe.br/rep/sid.inpe.br/mtc-m21c/2019/03.30.15.03?mirror=urlib.net/www/2017/11.22.19.04.03&metadatarepository=sid.inpe.br/mtc-m21c/2019/03.30.15.03.28) 
 
 **Abstract:**
 The São Francisco River basin covers an area of 645.000 km2 corresponding to 8% of Brazilian territory. Located in the Lower-Middle part of São Francisco River basin and in the biome of Caatinga, the Garças, the Pontal and the Curaçá river sub-basins are known for the strong irrigated agriculture, especially, the fruticulture. Many of those irrigated areas were implemented in natural vegetation areas. Due to the higher water demand, it can have changes in the water fluxes, as also in the carbon and energy fluxes. Therefore, the aim of this study was to evaluate how landcover and land use change impacts in the carbon and water fluxes, as also in the land surface temperature and surface albedo, using MODIS dataset and the algorithm METRIC (Mapping Evapotranspiration with High Resolution and Internalized Calibration). The used dataset were: MCD43A3 (albedo), MCD43A4 (nadir adjusted reflectance), MOD11A1 (land surface temperature), MOD15A2H (leaf area index), MOD13A31 (Normalized Difference Vegetation Index – NDVI), MOD16A2 (evapotranspiration – ET), MOD17A2H (gross primary productivity – GPP) and MOD44W (land water mask). The landcover and land use was mapped by visual inspection the main use and land cover in the area to extract the temporal profiles using images from OLI/Landsat-8 availables at Google Earth Engine. There was used the cummulative precipitation images from the TRMM (Tropical Rainfall Measuring Mission) data set 3B43, the landcover product MapBiomas version 3.0 and the elevation digital model GMTED2010. After applied the model METRIC to obtain ETa, some of the METRIC sub-products were used as input to generate the GPP and after the water-use efficiency (WUE). After the validation of the generated products using data from micrometerology towers, we not recommended using WUE from the ratio between the MODIS products (MOD17A2H/MOD16A2), as also MOD15A2H and MOD16A2 to study the pixel values, but the penultimate can be used to study the trends. Among the MODIS products, it is recommended to use MCD43A3 and MOD11A1. The products derived from METRIC showed the best results. These products are recommend in studies about carbon and water fluxes, but it is necessary to pay attention to the algorithm calibration of the algorithm to obtain good results. About the behaviour of the studied fluxes in the study area, it was observed a strong dependence of the Caatinga vegetation and pasture areas to the rainfall periods. Differently of irrigated areas, which presented a constant behaviour during the time. The Caatinga vegetation and pasture areas, even suffered a period of lower rainfall events in a period between June/2015 and December/2015 showed high values of NDVI and WUE after the precipitation events from January/2016. The irrigated areas showed high values of GPP and WUE during the whole year.
 
-### D) ANALYSIS OF THE MODEL METRIC IN ESTIMATING EVAPOTRANSPIRATION IN AN IRRIGATED SUGARCANE AREA, 2019
+### F) ANALYSIS OF THE MODEL METRIC IN ESTIMATING EVAPOTRANSPIRATION IN AN IRRIGATED SUGARCANE AREA, 2019
 
 **Access the publication:** [Link](https://proceedings.science/sbsr-2019/trabalhos/analise-do-modelo-metric-na-estimativa-da-evapotranspiracao-em-area-de-cana-de-a?lang=pt-br) 
 
