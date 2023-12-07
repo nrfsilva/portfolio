@@ -1,3 +1,5 @@
+**Below are some examples of academic projects and studies in which I have participated.**
+
 ### A) SEPARABILITY OF SUGARCANE DYNAMIC USING BASIC STATISTICS METRICS FROM SATELLITE TIME-SERIES, 2023
 
 **Access the publication:** [Link](https://proceedings.science/sbsr-2023/papers/separability-of-sugarcane-dynamic-using-basic-statistics-metrics-from-satellite?lang=en) 
