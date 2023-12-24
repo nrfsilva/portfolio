@@ -8,26 +8,20 @@
 In this study, we have done a comparison among different machine learning algorithms to develop a model to identify ratoon, expansion, under renovation, and renovated
 sugarcane areas using basic statistics metrics from the OLI/Landsat-8 time-series data, along with the data from SRTM. this study was in a region among São Paulo and Minas Gerais states for the crop-season 2020/21. We have used three datasets, one balanced and the others not. Our methodology has the potential to separate the proposal sugarcane classes. Also, feature selection is an important step to decrease the computational cost and improve the model accuracies. The approach to generate simple statistical metrics based on time windows is useful because we can reduce the size of our data and help us summarize all the variability of the interesting areas in these different periods.
 
-<div align="center">
-
-![alt text](https://github.com/nrfsilva/portfolio/assets/44679103/62d77dec-d698-4e6c-b01e-9670240889ef)
-
-*Result of the classification using the selected model generated from the algorithm Random Forest.*
-</div>
-
 ### B) GEOSPATIAL ANALYSIS OF SOY EXPANSION IN THE CERRADO BIOME: 2000/01 TO 2021/22 - AN UPDATE AND REANALYSIS WITH THE NEW BOUNDARY OF THE BIOME, 2021
 
 **Access the publication:** [Link](https://agrosatelite.com.br/static/img/cases/pdf/en/relatorio_ccm_exp_us.pdf) 
 
 **Abstract:**
-Under construction...
+This report presents an updated version of the geospatial analysis of soy expansion, taking into consideration the new boundaries of the Cerrado Biome, on a scale of 1:250,000, published by the Brazilian Institute of Geography and Statistics (IBGE) in 2019. The objective is to use satellite images to portray the dynamics of change in land use associated with soy crops. In addition, it extends the analysis to include the 2021/22 crop year. In this document, all the result generation, analysis, and visualizations was done by me in the chapters 1 Dynamics of Soy Expansion in the Cerrado Biome), 2 (Change in Land Use and Land Cover Attributed to Soy), and 3 (Deforestation in the Cerrado Biome).
 
 ### C) GEOSPATIAL ANALYSIS OF SOY EXPANSION IN THE CERRADO BIOME: EXPANSION DYNAMIC | AGRICULTURAL SUITABILITY | EVALUATION SYSTEM FOR FINANCIAL COMPENSATION - 2001 to 2019, 2020
 
 **Access the publication:** [Link](https://agrosatelite.com.br/static/img/cases/pdf/en/relatorio_ccm_us.pdf) 
 
 **Abstract:**
-Under construction...
+This study updates the historical data series, offering greater insight into the most recent trends regarding the land use and land cover changes resulting from soy expansion. It also provides information on the spatial distribution of native vegetation and anthropic areas with agricultural suitability for soy. To complement this information, the study presents a
+system that assesses the agricultural suitability of native vegetation in areas that are surplus to the Legal Reserves within soy properties – and to verify if these properties are qualified to receive financial compensation for maintaining the surplus area. To better understand regional diversity trends, the Cerrado Biome was divided into two areas: Other States (which includes the states of Mato Grosso, Goiás, Minas Gerais, Mato Grosso do Sul, São Paulo, Paraná and Rondônia as well as the Federal District) and Matopiba (the states of Maranhão, Tocantins, Piauí and Bahia). In this study, I have worked as the | soy agricultural suitability evaluation leader, due to it, in the document, all the methodology, implementation, and the result analysis related to soy suitability was done by me.
 
 ### D) MAPBIOMAS COLLECTION 4, 2019
 
